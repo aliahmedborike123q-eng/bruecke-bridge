@@ -10,7 +10,7 @@
 
 جسر من العربية إلى الألمانية: مسار A1 من 8 وحدات، قصص، بطاقات مفردات بأدوات ملوّنة وترجمة، نطق بسرعتين وتمارين استماع، ودفتر أخطاء بمراجعة متباعدة. يتضمن 412 مقطعًا صوتيًا مسجّلاً، وصوت الجهاز للجمل غير المسجّلة.
 
-> **حدود النسخة الحالية:** نسخة مبكرة. بعض مستويات القصص مقفلة. إرشادات النطق مبسّطة وقد لا تكون دقيقة تمامًا (مثل صوت ch) وما زالت تحت المراجعة. لم يُجرَّب على هاتف حقيقي، ولم تراجعه مدرّسة أو مدرّس ألماني.
+> **حدود النسخة الحالية:** نسخة مبكرة. بعض مستويات القصص مقفلة. إرشادات النطق مبسّطة وقد لا تكون دقيقة تمامًا (مثل صوت ch) وما زالت تحت المراجعة. نسخة أندرويد تجريبية (1.2) جُرِّبت على هاتف واحد: التشغيل والشاشة الرئيسية وصوت الدروس المسجّل اشتغلوا، أما الميكروفون وزر الرجوع والتنزيل فلم تُختبر. لم تراجعه مدرّسة أو مدرّس ألماني.
 
 </div>
 
@@ -18,7 +18,7 @@
 
 A bridge from Arabic to German: an A1 path of 8 units, stories, vocabulary cards with colored articles and translation, pronunciation at two speeds with listening exercises, and a mistake notebook with spaced review. Includes 412 recorded audio clips; the device voice reads sentences that have no recording.
 
-> **Current limits:** Early version. Some story levels are locked. Pronunciation tips are simplified and may be imprecise (for example the ch sound); they are still being proofread. Not tried on a real phone. Not reviewed by a German teacher.
+> **Current limits:** Early version. Some story levels are locked. Pronunciation tips are simplified and may be imprecise (for example the ch sound); they are still being proofread. An Android test build (1.2) was tried on one phone: launch, home screen and recorded lesson audio worked; the microphone, back button and download were not tested. Not reviewed by a German teacher.
 
 ## Features | المزايا
 
